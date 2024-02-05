@@ -1,0 +1,13 @@
+## Wifi
+CIRCUITPY_WIFI_SSID = "folpa"
+CIRCUITPY_WIFI_PASSWORD = "festival"
+
+## Data collection constants
+# Choose a unique device ID for your device, e.g. "yourname-co2-temperature"
+DEVICE_TIMEZONE = "America/Tijuana" # http://worldtimeapi.org/timezones
+DEVICE_ID = "Chuck_Piercey_Battery_Sensor"
+
+# Public/anonymous connection info for our supabase instance
+# (Yep, we've just put the access key in plaintext here :o )
+SUPABASE_POST_URL = "https://nowoepphtlvvczgexvrb.supabase.co/rest/v1/iot"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5vd29lcHBodGx2dmN6Z2V4dnJiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDQwNTcyOTEsImV4cCI6MjAxOTYzMzI5MX0.5GLRS74f_2lHi5y90yTzUtK2xpm0kSjP8MhkWFW2yDI"
