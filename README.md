@@ -41,7 +41,7 @@ Add a GPS sensor that can (phase 1) track and report float position and speed to
 - ![IoT Table Structure](images/IoT_Database_Table.png)
 - See [FOLPA db API doc](https://supabase.com/dashboard/project/zuwvqaycrihgxufuzmhu/settings/api) for documentation on how to access this table using REST calls.
 - A Supabase hosted reporting dashboard at [FOLPA Data Logger and Reporter](https://app.hex.tech/software-for-climate/hex/cb167ff0-d352-4704-9ba1-7184362fedae/draft/logic)
-- Public web access via computer or mobile devices
+- Public web access to the above dashboard via computer or mobile devices
 
 ## Set Up Hardware
 
