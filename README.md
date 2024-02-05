@@ -31,7 +31,8 @@ Add a GPS sensor that can (phase 1) track and report float position and speed to
 - ESP32 IoT devices running `code.py`
 - WiFi network hosted by a Raspberry Pi mounted in the cabin of the Steam Train parade float (SSID `folpa` Password `festival`)
 - Cellular connection from the Raspberry Pi to the cloud (TBD)
-- Supabase hosted database at [FOLPA Data Logger and Reporter](https://app.hex.tech/software-for-climate/hex/cb167ff0-d352-4704-9ba1-7184362fedae/draft/logic)
+- A Supabase hosted [FOLPA Device Database](https://zuwvqaycrihgxufuzmhu.supabase.co) that provides a RESTful endpoint for querying and managing the device database.
+- A Supabase hosted reporting dashboard at [FOLPA Data Logger and Reporter](https://app.hex.tech/software-for-climate/hex/cb167ff0-d352-4704-9ba1-7184362fedae/draft/logic)
 - Public web access via computer or mobile devices
 
 ## Set Up Hardware
@@ -64,4 +65,4 @@ If wifi setup is successful, you’ll see an IP address appear on the screen aft
 
 ## Device Reporting Code
 
-See code.py and setting.toml files in this repository. They need to be copied onto the ESP32 mounted as CIRCUITPY on your computer.
+See `code.py` and `setting.toml` files in this repository. They need to be copied onto the ESP32 mounted as CIRCUITPY on your computer.
