@@ -52,8 +52,8 @@ Follow directions at [Device Setup | CircuitPython Web Workflow Code Editor Quic
 
 Keeping your device connected to your computer via USB, from your computer:
 
-- Open the CIRCUITPY drive
-- Open the settings.toml file in a text editor
+- Open the `CIRCUITPY` drive
+- Open the `settings.toml` file in a text editor
 - Replace the contents of the file with this, updating with our Steam Train's wifi settings:
 ```
 CIRCUITPY_WIFI_SSID = "folpa"
