@@ -2,7 +2,7 @@
 
 # Background 
 
-To fight climate change (https://docs.google.com/presentation/d/1xozE2pJLaS6ZU5rT9S0h937FgYKbp3cBDq__n-NryBE/edit#slide=id.g243b82910f1_0_0), FOLPA recently converted its entire set of Festival of Lights parade floats to LiFePO4 batteries from gas generators (see Board Float Batterization Presentation at https://docs.google.com/presentation/d/1xozE2pJLaS6ZU5rT9S0h937FgYKbp3cBDq__n-NryBE/edit#slide=id.g243b82910f1_0_0). The key issue with this change is being sure each float has adequate charge for the complete show (see float batteries plan at https://docs.google.com/spreadsheets/d/1jNfh3eLkbha0XVxC8WWYtK-C9kAY6Rwcxe5QWCYV6Zo/edit#gid=0).
+To fight climate change [(See FOLPA and Climate Change)](https://docs.google.com/presentation/d/1xozE2pJLaS6ZU5rT9S0h937FgYKbp3cBDq__n-NryBE/edit#slide=id.g243b82910f1_0_0), FOLPA recently converted its entire set of Festival of Lights parade floats to LiFePO4 batteries from gas generators (see Board Float Batterization Presentation at https://docs.google.com/presentation/d/1xozE2pJLaS6ZU5rT9S0h937FgYKbp3cBDq__n-NryBE/edit#slide=id.g243b82910f1_0_0). The key issue with this change is being sure each float has adequate charge for the complete show (see float batteries plan at https://docs.google.com/spreadsheets/d/1jNfh3eLkbha0XVxC8WWYtK-C9kAY6Rwcxe5QWCYV6Zo/edit#gid=0).
 
 # Project Definition Document: Parade Float Remote Battery Monitoring System
 
