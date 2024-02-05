@@ -39,12 +39,12 @@ Add a GPS sensor that can (phase 1) track and report float position and speed to
 
 - Connect your ESP32 to your computer using the USB-C data cable. Find the Adafruit CircuitPython Quickstart page for your ESP32 board on [learn.adafruit.com](https://learn.adafruit.com/esp32-s2-reverse-tft-feather/circuitpython).
 - Follow the link to “download the latest version of CircuitPython”
-- Follow the link to download the CircuitPython 8.x.x .UF2 file for your device.
+- Follow the link to download the `CircuitPython 8.x.x .UF2` file for your device.
 - Connect your ESP32 to your computer using a USB-C data cable
-- Double-click “reset” button (the second click has to happen after the indicator LED turns purple). You will see a new disk drive appear called FTHRS2BOOT
-- Drag the downloaded `adafruit-circuitpython-adafruit_[something].uf2` file into the FTHRS2BOOT drive
+- Double-click “reset” button (the second click has to happen after the indicator LED turns purple). You will see a new disk drive appear called `FTHRS2BOOT`
+- Drag the downloaded `adafruit-circuitpython-adafruit_[something].uf2` file into the `FTHRS2BOOT` drive
 - On Mac OS if this triggers an “unexpected error” dialog, you may need to use your terminal to copy the file - the terminal command will be something like `cp -x ~/Downloads/adafruit-[something].uf2 /Volumes/FTHRS2BOOT`.
-- After a few seconds, this drive name will be replaced with CIRCUITPY.
+- After a few seconds, this drive name will be replaced with `CIRCUITPY`.
 
 ## Connect Device to WiFi
 
