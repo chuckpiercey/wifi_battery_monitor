@@ -1,6 +1,7 @@
 # wifi_battery_monitor
 
-Credits:
+## Credits
+
 * Liberally copied from course materials that are part of [Software Stack in Climate Tech](https://www.terra.do/climate-education/cohort-courses/software-stacks-in-climate-tech/). I highly recommend that everyone involved or interested in how technology can fight climate change take this course.
 * Inspiration drawn from [The Festival of Lights and Climate Change](https://docs.google.com/presentation/d/1xozE2pJLaS6ZU5rT9S0h937FgYKbp3cBDq__n-NryBE/edit#slide=id.g243b82910f1_0_0)
 * Errors GitBlameMe
