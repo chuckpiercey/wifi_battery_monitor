@@ -6,7 +6,7 @@ To fight climate change [(See FOLPA and Climate Change)](https://docs.google.com
 
 # Project Definition Document: Parade Float Remote Battery Monitoring System
 
-The goal of this project is to automatically track and report battery storage levels (and other data points of interest like GPS locatoion, speed and CO2 levels).
+The goal of this project is to automatically track and report battery storage levels (and other data points of possible interest like GPS location, speed and CO2 levels).
 
 # Summary  
 Create small, low power sensors that measure battery voltage (and, potentially, other float characteristics of interest) and report back to a central server that will create a real time dashboard of battery charge levels. This will allow us to remotely monitor floats during the off-season, and the critical pre-parade staging in the parking lot (as well as other uses).
