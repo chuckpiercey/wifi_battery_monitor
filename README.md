@@ -38,7 +38,7 @@ Add a GPS sensor that can (phase 1) track and report float position and speed to
 - WiFi network hosted by a Raspberry Pi mounted in the cabin of the Steam Train parade float (SSID `folpa` Password `festival`)
 - Cellular connection from the Raspberry Pi to the cloud (TBD)
 - A Supabase hosted [FOLPA Device Database](https://zuwvqaycrihgxufuzmhu.supabase.co) that provides a RESTful endpoint for querying and managing the device database. The table structure for this database is:
-![images/IoT Table Structure](IoT_Database_Table)
+![images/IoT Table Structure](IoT_Database_Table.png)
 -- See [FOLPA db API documentation](https://supabase.com/dashboard/project/zuwvqaycrihgxufuzmhu/settings/api).
 - A Supabase hosted reporting dashboard at [FOLPA Data Logger and Reporter](https://app.hex.tech/software-for-climate/hex/cb167ff0-d352-4704-9ba1-7184362fedae/draft/logic)
 - Public web access via computer or mobile devices
