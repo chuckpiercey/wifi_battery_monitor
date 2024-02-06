@@ -5,7 +5,7 @@ CIRCUITPY_WIFI_PASSWORD = "festival"
 ## Data collection constants
 # Choose a unique device ID for your device, e.g. "yourname-co2-temperature"
 DEVICE_TIMEZONE = "America/Tijuana" # http://worldtimeapi.org/timezones
-DEVICE_ID = "Chuck_Piercey_Battery_Sensor"
+DEVICE_ID =  "Put_Float_Name_Here" # e.g. "Steam_Train_Battery_Sensor"
 
 # Public/anonymous connection info for our supabase instance
 # (Yep, we've just put the access key in plaintext here :o )
