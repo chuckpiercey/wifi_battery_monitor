@@ -35,8 +35,8 @@ def initialize_wifi_connection():
     wifi.radio.connect(
         os.getenv("CIRCUITPY_WIFI_SSID"), os.getenv("CIRCUITPY_WIFI_PASSWORD")
     )
-print("CIRCUITPY_WIFI_SSID", CIRCUITPY_WIFI_SSID)
-print("CIRCUITPY_WIFI_PASSWORD", CIRCUITPY_WIFI_PASSWORD)
+print("CIRCUITPY_WIFI_SSID", os.getenv("CIRCUITPY_WIFI_SSID"))
+print("CIRCUITPY_WIFI_PASSWORD", os.getenv("CIRCUITPY_WIFI_PASSWORD"))
 
 initialize_wifi_connection()
 pool = socketpool.SocketPool(wifi.radio)
